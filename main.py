@@ -1,5 +1,9 @@
-#Return the count of a given substring from a string
-n=input("Enter the string : ")
-x=input("Which word do you want to search ? ")
-counting=n.count(x)
-print("It appears : ",counting)
+import numpy as num 
+
+
+a=int(input("Enter first number :"))
+b=int(input("Enter second number :"))
+if a>b:
+    print("First number is greater")
+else:
+    print("Second number is greater")

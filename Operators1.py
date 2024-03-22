@@ -1,3 +1,4 @@
+import numpy
 a=int(input("Enter your mark : "))
 if a>=0 and a<=32:
     print("Failed")
