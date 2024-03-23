@@ -1,0 +1,7 @@
+result=(10>5)
+print(result)
+result2=(10!=10)
+print(result2)
+result3=(10==10)
+print(result3)
+print("Python"=="Python")
